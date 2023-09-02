@@ -9,7 +9,7 @@ void main()
  {
   vis[j]=0;
  }
- printf("\nenter the no of nodes:\t");
+ printf("\nenter the number of nodes:\t");
  scanf("%d",&n);
  printf("\nenter the adjacency matrix:\n");
  for(i=1;i<=n;i++)
